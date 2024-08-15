@@ -88,7 +88,7 @@ start_1 : "{0} còn sống, con ơi.\n\n<b>✫ Thời gian chạy:</b> {1}"
 start_2 : "<b> Xin chào</b> {0}, 🥀 \n\n ๏ Đây là {1}! \n\n ➻ Bot phát nhạc nhanh và mạnh mẽ trên Telegram với các tính năng tuyệt vời. \n\n <b><u> Các nền tảng được hỗ trợ:</b></u>YouTube, Spotify, Resue, Apple Music và SoundCloud.\n──────────────────\n<b>๏ Nhấp vào nút Trợ giúp để biết thông tin về đơn vị và đơn hàng của tôi.</b>"
 start_3 : "Xin chào {0},\n{1}\n\nCảm ơn bạn đã thêm tôi vào {2}, {3} hiện có thể phát các bài hát trong cuộc trò chuyện này."
 start_4 : "🎄 <b>Yêu cầu siêu nhóm</b> 🎄\n\nVui lòng chuyển đổi <b>Nhóm</b> của bạn thành <b>Siêu nhóm</b> và sau đó thêm lại tôi.\n\n<b>Cách tạo đó có phải là Siêu nhóm không?</b>\n- Làm cho lịch sử trò chuyện của nhóm của bạn <b>hiển thị</b> cùng một lúc."
-start_5 : "<b>↝ Trò chuyện bị liệt vào danh sách đen ↜</b>\n\nCuộc trò chuyện này được liệt kê trong cơ sở dữ liệu {0} dưới dạng cuộc trò chuyện bị đưa vào danh sách đen.\nĐã áp dụng yêu cầu tới người dùng <a href={1}>sudo</a> để xóa cuộc trò chuyện khỏi danh sách đen hoặc truy cập </a>{2}>Trò chuyện hỗ trợ.</a>"
+start_5 : "<b>↝ Trò chuyện bị liệt vào danh sách đen ↜</b>\n\nCuộc trò chuyện này được liệt kê trong cơ sở dữ liệu {0} dưới dạng cuộc trò chuyện bị đưa vào danh sách đen.\nĐã áp dụng yêu cầu tới người dùng <a href={1}>sudo</a> để xóa cuộc trò chuyện khỏi danh sách đen hoặc truy cập </a href={2}>Trò chuyện hỗ trợ.</a>"
 start_6 : "😲 <b>Thông tin clip</b> 😲\n\nstitute <b>Tiêu đề:</b> {0}\n\n⏳ <b>Thời lượng:</b> {1} phút\n👀 < b>Lượt xem:</b> <code>{2</code>\n⏰ <b>Đã đăng trong:</b> {3}\n📎 <b>Kênh:</b> <a href= {4}>{5}</a>\n\n</u></b>🥀 Nghiên cứu được hỗ trợ bởi {6}</b></u>"
 
 
